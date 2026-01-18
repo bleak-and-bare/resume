@@ -41,11 +41,11 @@
     "name": "Tojoniaina Patrick Miharisoa",
     "role": "software developer",
     "mail": "miharisoap@gmail.com",
-    "phone": "+261328631960",
+    "phone": "+261343784594",
     "address": "Lot IAH 56 F Avaratsena Itaosy, 102 Antananarivo",
-    "website": "acf-patrick.github.io",
+    "website": "bleak-and-bare.github.io",
     "linkedin": "linkedin.com/in/patrick-miharisoa-8b8633227",
-    "github": "github.com/acf-patrick",
+    "github": "github.com/bleak-and-bare",
     "skills": [
       {
         "name": "C++",
@@ -127,15 +127,23 @@
         "employer": "Astek Madagascar",
         "city": "Antananarivo",
         "start": "mai 2024",
-        "end": null,
+        "end": "fev 2025",
         "description": "- Conception d'interfaces graphiques avec Qt QML\n- Développement d'application en système embarqué"
+      },
+      {
+        "position": "Ingénieur Intégrateur",
+        "employer": "Yas Madagascar",
+        "city": "Antananarivo",
+        "start": "fev 2025",
+        "end": null,
+        "description": "- Développement et maintenance de _web services_ sur Talend et avec Springboot\n- Développement d'interfaces utilisateur avec NextJS\n- Développement d'USSD avec Groovy" 
       }
     ],
     "personalProjects": [
       "Création serveur Rest API de nuage de points (LAS/LAZ, e57, PTS) avec __Rust__ et __GraphQL__",
-      "Création d'un lecteur de musique avec __ReactJs__ en frontend, __Tauri__ pour la webview et __Actix-web__ pour l'API REST et serveur web socket.[Repo GitHub](https://github.com/acf-patrick/music-player)",
-      "Création _application web_ de video streaming avec __ReactJs__ et __NestJs__, utilisant __Firebase__ storage comme stockage de données. [Repo GitHub](https://github.com/acf-patrick/nest-react-stream-app)",
-      "Bibliothèque C++ basé sur l'architecture ECS [Github repo](https://github.com/acf-patrick/ECS)"
+      "Création d'un lecteur de musique avec __ReactJs__ en frontend, __Tauri__ pour la webview et __Actix-web__ pour l'API REST et serveur web socket.[Repo GitHub](https://github.com/bleak-and-bare/music-player)",
+      "Création _application web_ de video streaming avec __ReactJs__ et __NestJs__, utilisant __Firebase__ storage comme stockage de données. [Repo GitHub](https://github.com/bleak-and-bare/nest-react-stream-app)",
+      "Bibliothèque C++ basé sur l'architecture ECS [Github repo](https://github.com/bleak-and-bare/ECS)"
     ],
     "achievements": [
       "Première place MATCodenewbiese 2020 (Malagasy Algo Tournament)",
@@ -152,11 +160,11 @@
     "name": "Tojoniaina Patrick Miharisoa",
     "role": "software developer",
     "mail": "miharisoap@gmail.com",
-    "phone": "+261328631960",
+    "phone": "+261343784594",
     "address": "Lot IAH 56 F Avaratsena Itaosy, 102 Antananarivo",
-    "website": "acf-patrick.github.io",
+    "website": "bleak-and-bare.github.io",
     "linkedin": "linkedin.com/in/patrick-miharisoa-8b8633227",
-    "github": "github.com/acf-patrick",
+    "github": "github.com/bleak-and-bare",
     "skills": [
       {
         "name": "C++",
@@ -238,16 +246,24 @@
         "employer": "Astek Madagascar",
         "city": "Antananarivo",
         "start": "Mai 2024",
-        "end": null,
+        "end": "Feb 2025",
         "description": "- User interface creation with Qt QML\n- Embedded system application development"
+      },
+      {
+        "position": "Software Engineer",
+        "employer": "Yas Madagascar",
+        "city": "Antananarivo",
+        "start": "Feb 2025",
+        "end": null,
+        "description": "- Build and maintain web services with Talend and Springboot\n- Develop user interfaces with NextJS\n- Develop USSD interfaces with Groovy" 
       }
     ],
     "personalProjects": [
-      "SAGE web application for Pharmacy management built with __React__, __NestJs__ and __Rust__. [Github repo](https://github.com/acf-patrick/SAGE-pharmacy)",
-      "_Streamly_ : a web application for video streaming built with __React__ and __NestJs__. [Github repo](https://github.com/acf-patrick/Nest-React-Stream-App)",
-      "Music-player application built with __ReactJs__ in frontend, __Tauri__ for webview and __Actix-web__ for REST API and web socket server. [Github repo](https://github.com/acf-patrick/music-player)",
-      "Chat - application built with __ReactJs__ and __Actix-web__. [Github repo](https://github.com/acf-patrick/rust_web_socket)",
-      "ECS library written in C++ for game development [Github repo](https://github.com/acf-patrick/ECS)"
+      "SAGE web application for Pharmacy management built with __React__, __NestJs__ and __Rust__. [Github repo](https://github.com/bleak-and-bare/SAGE-pharmacy)",
+      "_Streamly_ : a web application for video streaming built with __React__ and __NestJs__. [Github repo](https://github.com/bleak-and-bare/Nest-React-Stream-App)",
+      "Music-player application built with __ReactJs__ in frontend, __Tauri__ for webview and __Actix-web__ for REST API and web socket server. [Github repo](https://github.com/bleak-and-bare/music-player)",
+      "Chat - application built with __ReactJs__ and __Actix-web__. [Github repo](https://github.com/bleak-and-bare/rust_web_socket)",
+      "ECS library written in C++ for game development [Github repo](https://github.com/bleak-and-bare/ECS)"
     ],
     "achievements": [
       "First place MATCodenewbiese 2020 (Malagasy Algo Tournament)",
